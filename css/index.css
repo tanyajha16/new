@@ -814,7 +814,7 @@ input[type="date" i] {
 .item-slick1,
 .item-slick2,
 .item-slick3 {
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: center center;
 }
