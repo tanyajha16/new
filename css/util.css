@@ -3665,6 +3665,15 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
     transition: all 0.6s;
 }
 
+.hov-img-zoom-12 img{
+	width: 60%;
+  height: 45%;
+	-webkit-transition: all 0.6s;
+    -o-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    transition: all 0.6s;
+}
+
 .hov-img-zoom:hover img {
 	-webkit-transform: scale(1.1);
   	-moz-transform: scale(1.1);
