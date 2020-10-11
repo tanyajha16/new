@@ -1420,8 +1420,8 @@ body {padding-right: 0px !important;}
 */
 .bg-title-page {
   width: 100%;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 15%;
+  padding-right: 15%;
   background-repeat: no-repeat;
   background-position: center 0;
   background-size: cover;

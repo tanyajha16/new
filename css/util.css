@@ -3067,7 +3067,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 */
 .txt1 {
 	font-family: 'Kreon', serif;
-	font-size: 60px;
+	font-size: 260%;
 	line-height: 1.1;
 	color: white;
   padding-top: 300px;
