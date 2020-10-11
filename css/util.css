@@ -3575,6 +3575,10 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
   height: 80%;
 }
 
+.size40{
+  max-width: 100%;
+}
+
 /*[ Background Color ]
 -----------------------------------------------------------
 */
