@@ -3848,7 +3848,7 @@ RESPONSIVE  RESPONSIVE  RESPONSIVE  RESPONSIVE   RESPONSIVE
 /*[ SM ]
 -----------------------------------------------------------
 */
-@media (max-width: 576px) {
+@media (max-width: 3600%) {
 	.flex-col-l-sm {
 		display: -webkit-box;
 		display: -webkit-flex;
