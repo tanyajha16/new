@@ -626,7 +626,7 @@
 .p-b-167 {padding-bottom: 167px;}
 .p-b-168 {padding-bottom: 168px;}
 .p-b-169 {padding-bottom: 169px;}
-.p-b-170 {padding-bottom: 15%;}
+.p-b-170 {padding-bottom: 20%;}
 .p-b-171 {padding-bottom: 171px;}
 .p-b-172 {padding-bottom: 172px;}
 .p-b-173 {padding-bottom: 173px;}
@@ -3070,7 +3070,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-size: 30px;
 	line-height: 1.1;
 	color: white;
-  padding-top: 30%;
+  padding-top: 20%;
   text-shadow: 4px 6px 8px #013220;
 }
 
