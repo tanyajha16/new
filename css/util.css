@@ -3067,10 +3067,10 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 */
 .txt1 {
 	font-family: 'Kreon', serif;
-	font-size: 200%;
+	font-size: 170%;
 	line-height: 1.1;
 	color: white;
-  padding-top: 15%;
+  padding-top: 20%;
   text-shadow: 4px 6px 8px #013220;
 }
 
