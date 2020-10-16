@@ -355,7 +355,7 @@
 .p-t-147 {padding-top: 147px;}
 .p-t-148 {padding-top: 148px;}
 .p-t-149 {padding-top: 149px;}
-.p-t-150 {padding-top: 150px;}
+.p-t-150 {padding-top: 2%;}
 .p-t-151 {padding-top: 151px;}
 .p-t-152 {padding-top: 152px;}
 .p-t-153 {padding-top: 153px;}
@@ -626,7 +626,7 @@
 .p-b-167 {padding-bottom: 167px;}
 .p-b-168 {padding-bottom: 168px;}
 .p-b-169 {padding-bottom: 169px;}
-.p-b-170 {padding-bottom: 170px;}
+.p-b-170 {padding-bottom: 15%;}
 .p-b-171 {padding-bottom: 171px;}
 .p-b-172 {padding-bottom: 172px;}
 .p-b-173 {padding-bottom: 173px;}
@@ -3070,7 +3070,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-size: 260%;
 	line-height: 1.1;
 	color: white;
-  padding-top: 300px;
+  padding-top: 20%;
   text-shadow: 4px 6px 8px #013220;
 }
 
