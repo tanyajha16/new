@@ -18,16 +18,19 @@
 }
 .Aastikbtn:hover {
 	 transform: translateY(-5px);
-	 box-shadow: 0 4rem 4rem gray;
+     box-shadow: 0 2rem 2rem lightgreen;
+     text-decoration: none;
 }
 .Aastikbtn:hover::after {
 	 transform: scaleX(1.4) scaleY(1.6);
-	 opacity: 0;
+     opacity: 0;
+     text-decoration: none;
 }
 .Aastikbtn:active, .Aastikbtn:focus {
 	 outline: none;
 	 transform: translateY(-1px);
-	 box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .2);
+     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .2);
+     text-decoration: none;
 }
 .Aastikbtn--white {
 	 background-color: #fff;
@@ -52,12 +55,6 @@
 .Aastikbtn--animated {
 	 animation: moveInBottom 0.5s ease-out 0.75s;
 	 animation-fill-mode: backwards;
-}
-
-body {
- background-image: url("https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif");
- background-color: #cccccc;
- background-size:contain;
 }
 
 @-webkit-keyframes bounce {
@@ -89,4 +86,3 @@ body {
      -webkit-animation: bounce 0.75s infinite;
 }
 
-/* animated sponsors button */
